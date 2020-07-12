@@ -20,3 +20,8 @@ Comment l'utiliser :
 5. Recherchez et sélectionnez le dossier de l'extension.
 6. Vérifiez que l'extension est activée, sinon activez la.
 7. Sur votre site de vidéo favoris, cliquez sur le logo de l'extension puis sélectionnez la vitesse voulue.
+
+
+Made thanks to :
+https://developer.chrome.com/extensions/getstarted
+https://medium.com/@rbhatia46/watch-youtube-videos-faster-than-2x-with-one-line-of-code-dd29f9524945
